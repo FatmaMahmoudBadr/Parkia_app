@@ -11,6 +11,10 @@ After completing the drawing tasks, the user is asked to record their voice whil
 
 # Widgets and Libraries Used
 CustomPaint: Utilized for rendering custom shapes and capturing user drawings.
+
 RepaintBoundary: Ensures efficient redrawing of only the necessary parts of the screen.
+
 SnackBar: Provides user feedback and notifications.
+
 Audio Recorder: Powered by the Record library, this class handles the recording of user speech.
+
